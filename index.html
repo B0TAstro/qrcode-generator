@@ -19,9 +19,9 @@
     </div>
 
     <script>
-        let qrCode = document.getElementById('qrCode');
-        let qrText = document.getElementById('qrText');
-        let qrImg = document.getElementById('qrImg');
+        let qrCode = document.querySelector('#qrCode');
+        let qrText = document.querySelector('#qrText');
+        let qrImg = document.querySelector('#qrImg');
 
         function generateQR() {
             if(qrText.value.length > 0) {
