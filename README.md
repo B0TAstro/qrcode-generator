@@ -11,14 +11,14 @@ A simple and lightweight QR code generator built with HTML, CSS, and JavaScript.
 ## How to Use
 
 ### Online Version
-1. Visit [QR Code Generator](https://your-deployment-url-here.com)
+1. Visit [QR Code Generator](https://b0tastro.github.io/qrcode-generator/)
 2. Enter your text or URL
 3. Your QR code will generate automatically
 
 ### Local Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/qrcode-generator.git
+git clone https://github.com/B0TAstro/qrcode-generator.git
 ```
 2. Open `index.html` in your browser
 3. Start generating QR codes!
@@ -27,4 +27,4 @@ git clone https://github.com/yourusername/qrcode-generator.git
 Free to use and modify under the MIT License.
 
 ## Credits
-Built using the [QRCode.js](https://davidshimjs.github.io/qrcodejs/) library.
+Built using the [QR Code API](https://goqr.me/api/).
